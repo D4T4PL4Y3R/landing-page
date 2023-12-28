@@ -92,3 +92,31 @@ button {
     border: 3px solid #3882f6;
     border-radius: 10px;
 }
+
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+}
+
+.quote-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 800px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    height: 400px;
+}
+
+
+.quote-container p {
+    font-weight: bold;
+    text-align: end;
+    font-size: 16px;
+    margin: 0px;
+    font-style: normal;
+}
