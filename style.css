@@ -146,3 +146,12 @@ button {
 .signup-container button {
     border: 1px solid white;
 }
+
+.footer {
+    background-color: #1F2937;
+    height: 50px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
